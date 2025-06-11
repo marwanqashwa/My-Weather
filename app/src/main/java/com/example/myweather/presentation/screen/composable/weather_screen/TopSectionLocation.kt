@@ -1,4 +1,4 @@
-package com.example.myweather.presentation.screen.composable.weatherScreen
+package com.example.myweather.presentation.screen.composable.weather_screen
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxHeight

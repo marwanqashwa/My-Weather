@@ -27,11 +27,11 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.myweather.presentation.model.AnimationState
 import com.example.myweather.presentation.model.UiState
-import com.example.myweather.presentation.screen.composable.weatherScreen.CurrentUnitsSection
-import com.example.myweather.presentation.screen.composable.weatherScreen.NextDaysSection
-import com.example.myweather.presentation.screen.composable.weatherScreen.TodayHoursSection
-import com.example.myweather.presentation.screen.composable.weatherScreen.TopSectionLocation
-import com.example.myweather.presentation.screen.composable.weatherScreen.TopSectionWithAnimation
+import com.example.myweather.presentation.screen.composable.weather_screen.CurrentUnitsSection
+import com.example.myweather.presentation.screen.composable.weather_screen.NextDaysSection
+import com.example.myweather.presentation.screen.composable.weather_screen.TodayHoursSection
+import com.example.myweather.presentation.screen.composable.weather_screen.TopSectionLocation
+import com.example.myweather.presentation.screen.composable.weather_screen.TopSectionWithAnimation
 import com.example.myweather.presentation.view_model.AnimationViewModel
 import com.example.myweather.presentation.view_model.WeatherViewModel
 import com.example.myweather.ui.theme.WeatherColors
