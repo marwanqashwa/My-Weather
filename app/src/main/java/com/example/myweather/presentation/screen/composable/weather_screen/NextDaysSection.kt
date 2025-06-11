@@ -103,7 +103,7 @@ private fun NextDaysItem(
             Box(Modifier
                 .fillMaxSize()
                 .blur(100.dp, edgeTreatment = BlurredEdgeTreatment.Unbounded)
-                .alpha(0.32f)
+                .alpha(0.22f)
                 .background(color = colors.blurColor))
             Image(
                 painter = getWeatherTitleFromWeatherCode(dayWeather.weatherCode,true).img,

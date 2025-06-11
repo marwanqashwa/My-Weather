@@ -48,7 +48,7 @@ fun TodayHoursSection(
             letterSpacing = 0.25.sp,
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(horizontal = 12.dp),
+                .padding(horizontal = 12.dp).padding(bottom = 12.dp),
             textAlign = TextAlign.Start,
             fontFamily = urBanistSemiBold,
             color = colors.textHeaders
